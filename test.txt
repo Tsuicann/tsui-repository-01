@@ -1,2 +1,2 @@
 This file is creating to test cloning function in learnging Git tool.
-Edited by Dev1.
+Edited by Dev2.
